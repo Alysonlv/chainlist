@@ -1,4 +1,5 @@
 App = {
+
   web3Provider: null,
   contracts: {},
   account: 0x0,
